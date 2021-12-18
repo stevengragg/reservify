@@ -19,7 +19,7 @@ function Header() {
                 <p className="hidden md:inline">Become a host</p>
                 <GlobeAltIcon className="h-6 cursor-pointer" />
 
-                <div className="flex items-center space-x-2 rounded-full border-2 p-2">
+                <div className="flex items-center space-x-2 rounded-full border-2 p-2 cursor-pointer">
                     <MenuIcon className="h-6" />
                     <UserCircleIcon className="h-6" />
                 </div>
