@@ -6,7 +6,7 @@ export default function Home() {
         <div className="">
             <Head>
                 <title>Reservify</title>
-                <link rel="icon" href="/favicon.ico" />
+                <link rel="icon" href="/Reservify.png" sizes="30x30" type="image/png" />
             </Head>
 
             <Header />
